@@ -11,3 +11,12 @@ input data: 2015 and 49.83826, 24.02324
 
 ![Welcome screen](map_0.png)
 ![Result](map.png)
+
+This HTML file has as every html file next structure:
+<!DOCTYPE html>
+<head>
+</head>
+<body>
+</body>
+These tags contain numereous tags like <div>, <script>(for bounding some css and js files), <function> and other. There are also some css tags. For example: position,
+width, height, left, top and other.
