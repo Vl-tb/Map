@@ -9,4 +9,5 @@ get to know that in 100 m was filmed "Mission Impossible".
 Here's an example:
 input data: 2015 and 49.83826, 24.02324
 
-![](map.png)
+![Welcome screen](map_0.png)
+![Result](map.png)
